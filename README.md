@@ -1,5 +1,7 @@
 # Gixby: Open Google Voice Search with Bixby Button
 
+![Gixby Logo](https://github.com/kyujin-cho/AssistantOpener/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true)
+
 ## Instruction
 
 ### Register Bixby hotkey

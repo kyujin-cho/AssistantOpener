@@ -25,3 +25,8 @@
    ![Screenshot7](https://github.com/kyujin-cho/AssistantOpener/blob/master/screenshots/7.jpg?raw=true)
 
 2. Choose what you want, and click 'Save' button.
+
+### Enable Google Assistant Support
+
+1. Install 'Google Assistant' application from Play Store.
+2. 'Google Assistant Activity' will be added in Gixby Settings application.

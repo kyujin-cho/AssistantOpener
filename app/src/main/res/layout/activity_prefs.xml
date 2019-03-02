@@ -28,6 +28,11 @@
                     android:text="@string/voice_activity"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" android:id="@+id/voiceRadioButton" android:layout_weight="1"/>
+            <RadioButton
+                    android:text="@string/assistant_activity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/assistantRadioButton"
+                    android:layout_weight="1"/>
         </RadioGroup>
         <TextView
                 android:text="@string/activate"

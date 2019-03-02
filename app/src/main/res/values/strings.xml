@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssistantOpener</string>
+    <string name="when_bixby_clicked">When Bixby button is clicked, activate: </string>
+    <string name="search_activity">Google Text Search Activity</string>
+    <string name="voice_activity">Google Voice Search Activity</string>
+    <string name="activate">immediately.</string>
+    <string name="save">Save</string>
+    <string name="pref_saved">Settings saved.</string>
+</resources>
